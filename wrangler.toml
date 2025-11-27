@@ -1,0 +1,5 @@
+name = "rate-my-brain"
+compatibility_date = "2025-11-27"
+
+[site]
+bucket = "./dist"
